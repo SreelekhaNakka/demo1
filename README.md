@@ -1,10 +1,11 @@
 # demo1
 This is a front end demo project by using React Js
-#  is used for heading1
-##  is used for heading 2
-###  is used for heading 3
-####  is used for heading 4
-
+# heading1
+##  heading 2
+###  heading 3
+####  heading 4
+#####  heading 5
+######  heading 6
 note1: don't forget to give space after "#"
 note2: font size gradually decreases for every heading
 *font style in italic*
