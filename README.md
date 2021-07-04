@@ -44,3 +44,16 @@ note9: for sub list in ordered items use tab, space (or) double tab
 ![GitHub](https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg)
    
 [Google](https://www.google.co.in/)
+
+~~~python
+def fun():
+  print("this is flavored code")
+~~~
+
+Table 1      | Table 2
+-------------| -------------
+Name | Age
+Table 1 body | Table 2 body
+Ritu | 24
+Roxie | 1.5
+
